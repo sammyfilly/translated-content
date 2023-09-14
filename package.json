@@ -29,7 +29,5 @@
     "husky": "8.0.3",
     "lint-staged": "13.3.0",
     "markdownlint-cli2": "0.9.0",
-    "markdownlint-rule-search-replace": "1.2.0",
-    "prettier": "3.0.0"
   }
 }
